@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Heeseung&nbsp;Ha&font-size=70)
 
-<!--
-**hheeseung/hheeseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
 
-Here are some ideas to get you started:
+### 💜Welcome to my Github!💜
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech that I've used at least once
+![html](https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![css](https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;![react](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)&nbsp;![redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![postCSS](https://img.shields.io/badge/PostCSS-dd3a0a?style=for-the-badge&logo=postcss&logoColor=white)&nbsp;![postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;![vscode](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+<br />
+<br />
+
+### ☑ My Github Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hheeseung)](https://github.com/hheeseung/github-readme-stats)
+<br />
+<br />
+
+### ✏ Recent Post at Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hheeseung)](https://github.com/hheeseung/velog-readme-stats)
+</div>
+
