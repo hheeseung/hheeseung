@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### ☑ My Github Stats
+### ✅ My Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hheeseung)](https://github.com/hheeseung/github-readme-stats)
 <br />
 <br />
