@@ -14,10 +14,3 @@
 
 ### ✅ My Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hheeseung)](https://github.com/hheeseung/github-readme-stats)
-<br />
-<br />
-
-### ✏ Recent Post at Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hheeseung)](https://github.com/hheeseung/velog-readme-stats)
-</div>
-
