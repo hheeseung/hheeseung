@@ -1,9 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Heeseung&nbsp;Ha&font-size=70)
-  
 ### 💜Welcome to my Github!💜
-<br />
 <br />
 
 ### 🛠 Tech that I've used at least once
