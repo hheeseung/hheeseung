@@ -1,4 +1,4 @@
-### Hello 👋 Welcome to my github. I'm Heeseung Ha
+### Hello 👋 Welcome to my Github!
 
 - 🌈 I wanna be a front-end developer who grows based on consistency.
 
