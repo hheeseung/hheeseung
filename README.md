@@ -8,5 +8,5 @@
 - 👩‍💻 Now I'm studying...
 <br />`Typescript` `Next.js` `GraphQL`
 
-### ✅ MY GITHUB STATS
+### ✅ My Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hheeseung)](https://github.com/hheeseung/github-readme-stats)
